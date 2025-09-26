@@ -2,6 +2,9 @@
 
 A pipeline to integrate user-annotation of 3D voxel models into 3D topology optimization. Utilizes skeletonization, curvature/connectivity analysis, and distance mapping to create distinct and intuitively selectable segments. The workflow starts in MATLAB with `runTOpipeline(...)` and organizes outputs into consistent subfolders for later analysis.
 
+
+![Pipeline overview](img/skeleton.png)
+
 ## Installation
 
 Clone the repo:
